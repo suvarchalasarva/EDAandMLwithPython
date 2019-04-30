@@ -1,11 +1,12 @@
 # Car Sales - EDA
+![image1](/UkraineCarFleetSales/images/carfleet.png)
 ### DATA
 - The Data set contains features/specifications of different branded cars in Ukraine Car Fleet
 - Dataset contains 9576 entries and 10 columns/variables
 - 4 Numeric and 6 Categorical variables<br>
-### ATTRIBYTE INFORMATION
+### ATTRIBUTE INFORMATION
 | Column Name   | Description                                               |
-| ------------- |:-------------                                            :| 
+| ------------- | -------------                                             | 
 | Car           | Make/Manufacturer of car                                  | 
 | Price         | Selling Price of Car(measured in USD)                     |  
 | Body          | Body of Car                                               | 
@@ -15,8 +16,8 @@
 | Registration  | Whether the car is registered or not                      |
 | Year          | Manufacturing year of car                                 |
 | Model         | Model of car                                              |
-| Drive Type    | Drive Type of car                                         |
+| Drive Type    | Drive Type of car                                         |<br>
 ### DATA CLEANSING
-![image1](\images\unorg_data)
+![image2](/UkraineCarFleetSales/images/unorg_data.png) ![image3](/UkraineCarFleetSales/images/org_data.png)<br><br/>
 - Data is not always good to us, hence when we get RAW/UNORGANIZED DATA, we have to cleanse it removing bad characters, missing values, dropping duplicates and make it ORGANIZED DATA
 - Python Pandas allows us with different functions and makes the job easy
