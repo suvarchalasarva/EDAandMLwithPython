@@ -11,3 +11,10 @@
       4. Check assumptions with the help of summary statistics 
       5. Graphical representations
 ![image1](/images/EDA.png)
+### Repository Overview
+__________________________________________________________________________________________________________________________________________
+#### This Repository is about EDA on datsets and machine learning models build on datasets using python
+
+### Table of Contents
+* Ukraine Car Fleet Sales
+* Halloween Candies Winpercent
