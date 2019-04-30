@@ -11,15 +11,20 @@
       4. Check assumptions with the help of summary statistics 
       5. Graphical representations
 ![image1](/images/EDA.png)
+
 ## Repository Overview
-----------------------------------------------------------------------------------------------------------------------------------------
+
 #### This Repository is about EDA on datsets and machine learning models build on datasets using python
+________________________________________________________________________________________________________________________________________
+
 ## Table of Contents
 
-* [Ukraine Car Fleet Sales]:(#section3])
+* [Ukraine Car Fleet Sales]:(#section3)
 * [Halloween Candies Winpercent]()
-__________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+
 ### Ukraine Car Fleet Sales-EDA
+
 ![image2](/images/carsales.png)
 
       + Proposed Dataset is collection  of multiple car records along with specifications that are available in the Ukraine Car Fleet
@@ -27,10 +32,11 @@ ________________________________________________________________________________
       + EDA effort provides an insight of __Volkswagen__ Make Cars are mostly used and available registered cars in the Fleet 
       + EDA effort also identified relationships among specifications/features of the car so that the Manager of the Fleet is updated with insight of what type/featured cars they have to maintain in the Fleet to turn it to a big one 
       + [Link for Jupyter Notebook]
-__________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
+
 ### Halloween Candy Winpercent Prediction
 
-![image3] (/images/c1.png)
+![image3](/images/c1.png)
 
       + Proposed dataset was scraped from Five Thirty Eight-Candy Power Ranking and is collection of multiple candies records with specifications like flavors(chocolate,caramel,crispedricewafer),sugar percent contained in them
       + The purpose of this research(EDA) is to check what type/flavored candy is mostly liked/voted by people so that the candy makers can add those flavors and cutomize their candies in order to grow their sales
