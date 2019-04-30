@@ -31,12 +31,12 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 <a id="section2"></a>
-### Halloween Candy Winpercent Prediction(./Halloween Candy Winpercent)
+###[Halloween Candy Winpercent Prediction](./Halloween Candy Winpercent)
 ![image3](/images/c1.png)<br><br>
-     - Proposed dataset was scraped from Five Thirty Eight-Candy Power Ranking and is collection of multiple candies records with
-       specifications like flavors(chocolate,caramel,crispedricewafer),sugar percent contained in them
-     - The purpose of this research(EDA) is to check what type/flavored candy is mostly liked/voted by people so that the candy makers
-       can add those flavors and cutomize their candies in order to grow their sales
-     - A model is built to predict winpercent(people liking the taste of candy) of any flavored candy
-     - EDA effort identified relationships among all flavors so as what combination of flavors are mostly liked by people
-     - [Link for Jupyter Notebook](./HalloweenCandyWinpercent/ProjectCandy.ipynb)
+   - Proposed dataset was scraped from Five Thirty Eight-Candy Power Ranking and is collection of multiple candies records with
+     specifications like flavors(chocolate,caramel,crispedricewafer),sugar percent contained in them
+   - The purpose of this research(EDA) is to check what type/flavored candy is mostly liked/voted by people so that the candy makers
+      can add those flavors and cutomize their candies in order to grow their sales
+   - A model is built to predict winpercent(people liking the taste of candy) of any flavored candy
+   - EDA effort identified relationships among all flavors so as what combination of flavors are mostly liked by people
+   - [Link for Jupyter Notebook](./HalloweenCandyWinpercent/ProjectCandy.ipynb)
