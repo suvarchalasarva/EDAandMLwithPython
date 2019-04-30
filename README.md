@@ -19,7 +19,7 @@
 ________________________________________________________________________________________________________________________________________
 
 <a id="section1"></a>
-### [Ukraine Car Fleet Sales-EDA](./Ukraine Car Fleet Sales)
+### [Ukraine Car Fleet Sales-EDA](./UkraineCarFleetSales)
 ![image2](/images/carsales.png)<br><br>
    - Proposed Dataset is collection  of multiple car records along with specifications that are available in the Ukraine Car Fleet
    - The purpose of this research(EDA) is to identify how Fleet can grow based on available cars specifictions and as well as car's
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 <a id="section2"></a>
-###[Halloween Candy Winpercent Prediction](./Halloween Candy Winpercent)
+### [Halloween Candy Winpercent Prediction](./HalloweenCandyWinpercent)
 ![image3](/images/c1.png)<br><br>
    - Proposed dataset was scraped from Five Thirty Eight-Candy Power Ranking and is collection of multiple candies records with
      specifications like flavors(chocolate,caramel,crispedricewafer),sugar percent contained in them
@@ -39,4 +39,4 @@ ________________________________________________________________________________
       can add those flavors and cutomize their candies in order to grow their sales
    - A model is built to predict winpercent(people liking the taste of candy) of any flavored candy
    - EDA effort identified relationships among all flavors so as what combination of flavors are mostly liked by people
-   - [Link for Jupyter Notebook](./HalloweenCandyWinpercent/ProjectCandy.ipynb)
+   - [Link for Jupyter Notebook](./HalloweenCandyWinpercent/Candywinpercent.ipynb)
