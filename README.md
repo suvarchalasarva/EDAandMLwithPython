@@ -1,10 +1,10 @@
 # Exploratory Data Analysis <br>
 ## What is DATA?
-###### DATA is facts or figures which can be collected,organized,interpreted,processed,structured to make meaningful information which provide insights for betterment of businesses<br>
+##### DATA is facts or figures which can be collected,organized,interpreted,processed,structured to make meaningful information which provide insights for betterment of businesses<br>
 ## Why Exploratory Data Analysis(EDA)?
-###### Everything around us is DATA. In order to understand DATA and make gainful insights, we need to understand it more and for that, we perform Exploratory Data Analysis(EDA) on it<br>
+##### Everything around us is DATA. In order to understand DATA and make gainful insights, we need to understand it more and for that, we perform Exploratory Data Analysis(EDA) on it<br>
 ## what is EDA?
-###### Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to 
+##### Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to 
       1. Discover patterns
       2. Spot anomalies
       3. Test hypothesis 
@@ -13,11 +13,11 @@
 ![image1](/images/EDA.png)
 # Machine Learning<br>
 ## What is Machine Learning?
-###### Artificial intelligence(AI) is the broad science of mimicking human abilities, machine learning is a specific subset of AI that trains a machine how to learn, identify patterns and make decisions with minimal human intervention.<br>
-![image4](/images/machineLearning)<br><br>
-###### Machine Learning is the science of getting computers to act(make predictions on data) without being explicitly programmed
-###### It is one of the exciting technologies that one would come across, actively being used, perhaps in many more places than one would expect like predicting weather, sales per month/year of any product, recommendation engines(amazon,e-commerce sites),Email spam detections,credit card fraud detections, banking sector,voice recognition, speech recognition(Alexa,Cortona,Siri) etc., and many more...<br>
-###### Machine Learning Models learn form data, looks for patterns, build model and predict reliable outcomes which further help businesses in making decisions through its powerful insights<br>
+#####  Artificial intelligence(AI) is the broad science of mimicking human abilities, machine learning is a specific subset of AI that trains a machine how to learn, identify patterns and make decisions with minimal human intervention.<br>
+![image4](/images/MachineLearning)<br><br>
+##### Machine Learning is the science of getting computers to act(make predictions on data) without being explicitly programmed
+##### It is one of the exciting technologies that one would come across, actively being used, perhaps in many more places than one would expect like predicting weather, sales per month/year of any product, recommendation engines(amazon,e-commerce sites),Email spam detections,credit card fraud detections, banking sector,voice recognition, speech recognition(Alexa,Cortona,Siri) etc., and many more...<br>
+##### Machine Learning Models learn form data, looks for patterns, build model and predict reliable outcomes which further help businesses in making decisions through its powerful insights<br>
 ## Machine Learning Process
 ![image5](/images/machinelearningprocess.png)<br><br>
 ## Repository Overview
