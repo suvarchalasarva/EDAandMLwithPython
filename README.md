@@ -14,7 +14,7 @@
 # Machine Learning<br>
 ## What is Machine Learning?
 #####  Artificial intelligence(AI) is the broad science of mimicking human abilities, machine learning is a specific subset of AI that trains a machine how to learn, identify patterns and make decisions with minimal human intervention.<br>
-![image4](/images/MachineLearning)<br><br>
+![image4](/images/MachineLearning.png)<br><br>
 ##### Machine Learning is the science of getting computers to act(make predictions on data) without being explicitly programmed
 ##### It is one of the exciting technologies that one would come across, actively being used, perhaps in many more places than one would expect like predicting weather, sales per month/year of any product, recommendation engines(amazon,e-commerce sites),Email spam detections,credit card fraud detections, banking sector,voice recognition, speech recognition(Alexa,Cortona,Siri) etc., and many more...<br>
 ##### Machine Learning Models learn form data, looks for patterns, build model and predict reliable outcomes which further help businesses in making decisions through its powerful insights<br>
