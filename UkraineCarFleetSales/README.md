@@ -18,6 +18,6 @@
 | Model         | Model of car                                              |
 | Drive Type    | Drive Type of car                                         |<br>
 ### DATA CLEANSING
-![image2](/UkraineCarFleetSales/images/unorg_data.png) ![image3](/UkraineCarFleetSales/images/org_data.png)<br><br/>
+![image2](/UkraineCarFleetSales/images/cleansed_data.png)<br> 
 - Data is not always good to us, hence when we get RAW/UNORGANIZED DATA, we have to cleanse it removing bad characters, missing values, dropping duplicates and make it ORGANIZED DATA
 - Python Pandas allows us with different functions and makes the job easy
