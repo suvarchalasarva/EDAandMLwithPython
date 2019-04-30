@@ -10,3 +10,4 @@
       3. Test hypothesis 
       4. Check assumptions with the help of summary statistics 
       5. Graphical representations
+![image](/images/EDA.jpg)
