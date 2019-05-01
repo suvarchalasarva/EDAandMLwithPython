@@ -7,19 +7,19 @@
 - Dataset contains __85__ entries and __13__ columns/variables
 - __3__ Numeric , __1__ Categorical and __9__ Boolean variables<br>
 ## ATTRIBUTE INFORMATION
-| Column Name        | Description                                                          |
-| - - - - - - - - -  | - -- -- - - - -- - - -- ---------------------------------------      |
-| competitor Name    | Name of competitor brand                                             |
-| chocolate          | Does it contain chocolate?                                           |                                        
-| fruity             | Is it fruit flavored?                                                |
-| caramel            | Is there caramel in the candy?                                       |
-| peanutalmondy      | Does it contain peanuts, peanut butter or almonds?                   |
-| nougat             | Does it contain nougat?                                              |
-| crispedricewafer   | Does it contain crisped rice, wafers, or a cookie component          |
-| hard               | Is it a hard candy?                                                  |
-| bar                | Is it a candy bar?                                                   |
-| pluribus           | Is it one of many candies in a bag or box?                           |
-| sugarpercent       | The percentile of sugar it falls under within the data set           |
-| pricepercent       | The unit price percentile compared to the rest of the set            |
-| winpercent         | The overall win percentage according to 269,000 matchups             |
+| Column Name   			| Description                                              		  |
+| ------------- 			| --------------------------------------------------------------|                                            		
+| competitor Name     | Name of competitor brand                                   	  | 
+| chocolate        		| Does it contain chocolate?                     				        |  
+| fruity          		| Is it fruit flavored?                                         | 
+| caramel       			| Is there caramel in the candy?      							            |                                            
+| peanutalmondy       | Does it contain peanuts, peanut butter or almonds?            |   
+| nougat       				| Does it contain nougat?                                      	|
+| crispedricewafer 		| Does it contain crisped rice, wafers, or a cookie component   |
+| hard          			| Is it a hard candy?                                  			    |
+| bar          				| Is it a candy bar?                                            |
+| pluribus    				| Is it one of many candies in a bag or box?                    |
+| sugarpercent				| The percentile of sugar it falls under within the data set  	|
+| pricepercent 				| The unit price percentile compared to the rest of the set 	  |
+| winpercent				  | The overall win percentage according to 269,000 matchups		  |
 <br>
