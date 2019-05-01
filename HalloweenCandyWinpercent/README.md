@@ -8,7 +8,7 @@
 - __3__ Numeric , __1__ Categorical and __9__ Boolean variables<br>
 ## ATTRIBUTE INFORMATION
 | Column Name        | Description                                                          |
-| - - - - - - - - - -|- - -- -- - - - -- - - -- ---------------------------------------     |
+| - - - - - - - - -  | - -- -- - - - -- - - -- ---------------------------------------      |
 | competitor Name    | Name of competitor brand                                             |
 | chocolate          | Does it contain chocolate?                                           |                                        
 | fruity             | Is it fruit flavored?                                                |
