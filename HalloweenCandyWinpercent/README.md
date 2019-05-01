@@ -36,4 +36,10 @@
 - Identify how each feature has effect on other features , study the correlations
 - Generally, by studying insights from above will help candy manufacturers/makers know what type of flavor is mostly liked by people and they can include those flavors in their candies and make good business
 ## EDA
-
+![image2.png](images/chocolatecount.png)
+![image3.png](images/winpercentrange.png)
+![image4.png](images/chocowinpercent.png)
+![image5.png](images/peanutysugar.png)
+![image6.png](images/peanutyprice.png)
+![image7.png](images/peanutypairplot.png)
+![image8.png](images/corr.png)<br>
