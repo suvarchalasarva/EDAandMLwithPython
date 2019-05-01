@@ -43,3 +43,6 @@
 ![image6.png](images/peanutyprice.png)
 ![image7.png](images/peanutypairplot.png)
 ![image8.png](images/corr.png)<br>
+## Predicting Winpercent using Linear Regression
+Our Dataset's target variable is __winpercent__ and is continuous numeric variable, so we use __Linear Regression Machine Learning Model__ to predict winpercent of __any flavored candy__ and combination of __different flavors,sugarpercent candies__ also 
+
