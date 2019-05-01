@@ -31,3 +31,8 @@
 - Text Variable:         __1__
 - Size in Memory:      __8.7 KiB__
 ## PROBLEM STATEMENT
+- What’s the best (or at least the most popular) Halloween candy(win percent)?
+- Which specified features/columns are associated with higher rankings?
+- Identify how each feature has effect on other features , study the correlations
+Generally, by studying insights from above will help candy manufacturers/makers know what type of flavor is mostly liked by people and they can include those flavors in their candies and make good business
+
