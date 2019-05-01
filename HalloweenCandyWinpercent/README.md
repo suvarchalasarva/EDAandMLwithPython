@@ -21,8 +21,7 @@
 | pluribus    				| Is it one of many candies in a bag or box?                    |
 | sugarpercent				| The percentile of sugar it falls under within the data set  	|
 | pricepercent 				| The unit price percentile compared to the rest of the set 	  |
-| winpercent				  | The overall win percentage according to 269,000 matchups		  |
-<br>
+| winpercent				  | The overall win percentage according to 269,000 matchups		  |<br>
 ## DATA IN DEPTH
 - Number of Entries:     __85__
 - Number of Variables:   __13__
