@@ -24,10 +24,11 @@
 | winpercent				  | The overall win percentage according to 269,000 matchups		  |
 <br>
 ## DATA IN DEPTH
-- Number of Entries:    __85__
-- Number of Variables:  __13__
+- Number of Entries:     __85__
+- Number of Variables:   __13__
 - Numeric Variables:     __3__
 - Categorical Variable:  __0__
 - Boolean Variables:     __9__
 - Text Variable:         __1__
 - Size in Memory:      __8.7 KiB__
+## PROBLEM STATEMENT
