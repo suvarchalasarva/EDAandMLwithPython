@@ -53,7 +53,7 @@ Our Dataset's target variable is __winpercent__ and is continuous numeric variab
 - After discarding __'hard','bar','caramel','pluribus','crispedricewafer'__ columns, RMSE comes to be __10.566__
 ![image10.png](images/regressioncurv.png)<br/>
 ## INSIGHTS
-![image11.png](UkraineCarFleetSales/images/insight.png)
+![image11.png](/images/insight.png)
 - Top winpercent candies having high winpercent __84.180,81.866__ are __Reeses Peanut Butter, Reeses Miniature__ contain following flavors
      __chocolate, caramel,peanutyalmondy,not hard, not bar__ candies
 - Least winpercent candies 22.44,23.41 are __Nik L Nip,Boston Baked Beans__ have following flavors
