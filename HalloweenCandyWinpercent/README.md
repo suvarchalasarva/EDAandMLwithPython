@@ -43,12 +43,20 @@
 ![image6.png](images/peanutyprice.png)
 ![image7.png](images/peanutypairplot.png)
 ![image8.png](images/corr.png)<br>
-## Predicting Winpercent using Linear Regression
-Our Dataset's target variable is __winpercent__ and is continuous numeric variable, so we use __Linear Regression Machine Learning Model__ to predict winpercent of __any flavored candy__ and __combination of different flavors,sugarpercent candies__ also 
+## Using Predictive Modelling Technique(Linear Regression)
+Our Dataset's target variable is __winpercent__ and is continuous numeric variable, so we use __Linear Regression Machine Learning Model__ to predict winpercent of __any flavored candy__ and __combination of different flavored candies__  
 ![image9.png](images/LR.png)
 ![image10.png](images/SLR.png)<br>
-#### Studying the feautered columns and interpreting their coefficients , we get to know how each feature is effecting the target variable __winpercent__
-- Positive coefficeients contribute possitively to winpercent and negative coefficients contribute negativekly to winpercent
-- __caramel,hard,bar,pluribus__ candies contribute __low winpercent__
-- 
-
+#### Studying the featured columns and interpreting their coefficients, we get to know how each feature is effecting the target variable __winpercent__
+- __caramel,hard,bar,pluribus,crispedricewafer__ candies contribute to __low winpercents__ and hence we drop those features by studying metrics(as well as correlated variables)
+- _Before_ doing feature selection _RMSE_ for the test dataset was __12.252__
+- _After_ discarding 'hard','bar','caramel','pluribus','crispedricewafer' column, RMSE comes to be __10.566__
+![image10.png](images/regressioncurv.png)<br/>
+## INSIGHTS
+![image11.png](\UkraineCarFleetSales\images\insight.png)
+- Top winpercent candies having high winpercent __84.180,81.866__ are __Reeses Peanut Butter, Reeses Miniature__ contain following flavors
+- __chocolate, caramel,peanutyalmondy,not hard, not bar__ candies
+- Least winpercent candies 22.44,23.41 are __Nik L Nip,Boston Baked Beans__ have following flavors
+- __fruity,pluribus,peanutyalmondy__
+- __chocolate, fuity, peanutyalmondy, nougat__ are Independent variables contributing to good winpercents
+- Most of the __hard candies are not liked by people__, all hard candies are non bar candies have less winpercents
