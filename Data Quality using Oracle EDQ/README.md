@@ -20,7 +20,7 @@
   - Peformed Wrangling using processors like Add String Attribute, Add Numeric Attribute, Concatenate processors
   - Used regular expressions to split merged field into tokens while __parsing__
   - Used __Data Interfaces__ concept to run  multiple data sources through same process
-  - Performed Fuzzy Search using __Advanced Match__ Processor configuration(__clustering__ concept) by checking runtime input to backend database field values, then return match score with closely related records
-  - Published matching results as Web services
+  - Performed Fuzzy Search using __Advanced Match__ Processor configuration(__clustering__ concept) by checking runtime input to backend database field values, then return closely related records with high __match scores__
+  - Published matching results as __Web services__(WSDL Genearation)
   - Used __Server Console__ to run the processes __dynamically__ using __job__ and __job scheduling__ configuration
   - Processed data is written to output files using __Writer__
