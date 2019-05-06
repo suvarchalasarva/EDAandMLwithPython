@@ -21,6 +21,6 @@
   - Used regular expressions to split merged field into tokens while __parsing__
   - Used __Data Interfaces__ concept to run  multiple data sources through same process
   - Performed Fuzzy Search using __Advanced Match__ Processor configuration(__clustering__ concept) by checking runtime input to backend database field values, then return match score with closely related records
-  - ublished matching results as Web services
+  - Published matching results as Web services
   - Used __Server Console__ to run the processes __dynamically__ using __job__ and __job scheduling__ configuration
   - Processed data is written to output files using __Writer__
