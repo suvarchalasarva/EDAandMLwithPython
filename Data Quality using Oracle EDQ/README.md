@@ -3,7 +3,7 @@
 ![image1.png](images/data_quality.png)<br>
 #### Data Quality has been checked for contacts Data in CRM and director package file(.dxi extension file) has all the processors and configuration<br>
 ## What the RAW Data contains?
-  - contacts in CRM has following fields
+  #### Contacts in CRM has following fields:
   - First Name, Last Name, Suffix, Gender, SSN, DOB, Address(composite field)etc..
   - Possessing inconsistent, missing data for DOB, Address fields etc
   - Duplicate rows existence causing redundancy
