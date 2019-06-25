@@ -58,7 +58,7 @@ ________________________________________________________________________________
    
 <a id="section3"></a>
 ### [Consulting assignment on Telecom Service Provider](./EDA%20on%20Telecom%20Services)
-![image3](/images/c1.png)<br><br>
+![image3](/images/Telecom_Service.png)<br><br>
    - Mr. XY Telecom, one of the leading telecom players, understands that customizing offering is very important for its business to          stay competitive. Currently, XY Telecom is seeking to leverage behavioral data from more than 60% of the 50 million mobile devices      active daily in India to help its clients better understand and interact with their audiences.
    - In this consulting assignment, Doing deep EDA will help millions of developers and brand advertisers around the world pursue data-      driven marketing efforts which are relevant to their users and cater to their preferences.
    - Retrieved data from the database, merged multiple tables, cleansed data containing around 2.6 lakh records and 12 columns.
