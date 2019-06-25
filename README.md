@@ -25,6 +25,7 @@
 ## Table of Contents
 * [Ukraine Car Fleet Sales](#section1)<br>
 * [Halloween Candies Winpercent](#section2)<br>
+* [Consulting assignment on Telecom Service Provider] (#section3)<br>
 ________________________________________________________________________________________________________________________________________
 
 <a id="section1"></a>
@@ -50,3 +51,8 @@ ________________________________________________________________________________
    - EDA effort identified relationships among all flavors so as what combination of flavors are mostly liked by people
    - Model Prediction insight was such __chocolate flavored candies gain high winpercents__ compared to other features
    - [Link for Jupyter Notebook](./HalloweenCandyWinpercent/Candywinpercent.ipynb)
+   ________________________________________________________________________________________________________________________________________
+   
+<a id="section3"></a>
+### [Consulting Assignment on Telecom Service Provider](./Consulting Assignment on Telecom Service Provider)
+![image3](/images/c1.png)<br><br>
