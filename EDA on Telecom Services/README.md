@@ -40,7 +40,7 @@
 ## PROBLEM ANALYSIS - EDA
 ![image2.png](images/eventsbystate.png)
 ![image3.png](images/eventsbygender.png)
-![image4.png](images/eventsbyagevssstate.png)
+![image4.png](images/eventsbyagevsstate.png)
 ![image5.png](images/eventsbyagevsgenervsstate.png)
 ![image6.png](images/eventsbyphonebrand.png)
 ![image7.png](images/topmodelsamsung.png)
@@ -50,4 +50,5 @@
 ![image11.png](images/usersbystateandgroup.png)
 ![image12.png](images/InteractiveDashboard.png)<br/>
 ## INSIGHTS- CONSULTING REPORT
+![image13.png](images/insight-2.png)<br/>
 - [Link for Consulting Report](./EDAandMLwithPython/blob/master/EDA%20on%20Telecom%20Services/Counsulting%20Report.docx)
