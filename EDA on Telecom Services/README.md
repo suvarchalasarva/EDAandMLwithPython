@@ -38,10 +38,16 @@
 ## PROBLEM STATEMENT
 - To help the customer, the consultants are expected to have depth of clarity in the underlying data. Do help the service provider understand what the right way forward is and suggest actionable insights from marketing and product terms.
 ## PROBLEM ANALYSIS - EDA
-![image2.png](images/chocolatecount.png)
-![image3.png](images/winpercentrange.png)
-![image4.png](images/chocowinpercent.png)
-![image5.png](images/peanutysugar.png)
-![image6.png](images/peanutyprice.png)
-![image7.png](images/peanutypairplot.png)
-![image8.png](images/corr.png)<br>
+![image2.png](images/eventsbystate.png)
+![image3.png](images/eventsbygender.png)
+![image4.png](images/eventsbyagevssstate.png)
+![image5.png](images/eventsbyagevsgenervsstate.png)
+![image6.png](images/eventsbyphonebrand.png)
+![image7.png](images/topmodelsamsung.png)
+![image8.png](images/userbystate.png)
+![image9.png](images/usersbycity,phonebrand.png)
+![image10.png](images/usersbystateandgender.png)
+![image11.png](images/usersbystateandgroup.png)
+![image12.png](images/InteractiveDashboard.png)<br/>
+## INSIGHTS- CONSULTING REPORT
+- [Link for Consulting Report](./EDAandMLwithPython/blob/master/EDA%20on%20Telecom%20Services/Counsulting%20Report.docx)
