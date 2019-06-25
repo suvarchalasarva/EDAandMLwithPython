@@ -1,8 +1,4 @@
-- This dataset was scraped from __Five Thirty Eight-Candy__ Power Ranking Dataset.
-- It is collection  of multiple candies records with specifications like flavors(chocolate,caramel,peanutyalmondy,etc), sugar percent   contained them
-- Data was collected by creating a website where participants were shown presenting two fun-sized candies and asked to click on the one they would prefer to receive. In total, more than __269 thousand votes__ were collected from 8,371 different IP addresses.
-- Dataset contains __85__ entries and __13__ columns/variables
-- __3__ Numeric , __1__ Categorical and __9__ Boolean variables<br>
+
 - The Data is collected from mobile apps that use Insaid Telecom services. Full recognition and consent from individual user of those     apps have been obtained, and appropriate anonymization have been performed to protect privacy. 
 - The data schema consists of follwing three tables.
 - gender_age_train: Devices and their respective user gender, age and age_group
