@@ -54,7 +54,7 @@
 ![image12.png](images/InteractiveDashboard.png)<br/>
 ## INSIGHTS- CONSULTING REPORT
 ![image13.png](images/insight-2.png)<br/>
-- [Link for Consulting Report](./EDA%20on%20Telecom%20Services/Counsulting%20Report.docx)
+- [Link for Consulting Report](./EDA on Telecom Services/ConsultingReport.docx)
 ## CONCLUSION
 Consulting Team provides Insights reports to customers and help understand them by numbers, how their Telecom Services have impact on users by their demographic, location features. Next customers will get to know what decision they can make in order to increase, the usage of their telecom users in respective cities, states and do more marketing in specific cities respective to age groups, genders and like other features. (Which brand users are more compatible to their services).
 
