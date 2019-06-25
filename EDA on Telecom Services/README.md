@@ -2,7 +2,7 @@
 ## SOURCE OF DATA 
 ![image1.png](images/service_provider.png)<br><br>
 - The Data is collected from mobile apps that use Mr. XY Telecom services. Full recognition and consent from individual user of those       apps have been obtained, and appropriate anonymization have been performed to protect privacy. 
-- The data schema consists of follwing three tables.
+- The data schema consists of following three tables.
 - __gender_age_train__: Devices and their respective user gender, age and age_group
 - Shape of gender_age_train is 74645 rows x 4 columns
 - __phone_brand_device_model__: device ids, brand, and models phone_brand: note that few brands are in Chinese
@@ -35,6 +35,9 @@
 - Merged phone_brand_device_model dataframe with already above merged dataframe.
 - There are NaN's for phone_brand,device_model columns in merged dataframe.
 - These NaN's are filled by mode values from merged dataframe.
+- Our dataset is cleansed and ready for performing analysis and plotting with __261182 rows X 12 columns__
+- Unique device_id’s which represent individual user count is __4297 rows X 12 columns__
+- After filtering for __top 10 phone brand users__, we get events recorded count as __246400 rows X 12 columns__, whereas unique device_id’s count is __4061 rows X 12 columns__ 
 ## PROBLEM STATEMENT
 - To help the customer, the consultants are expected to have depth of clarity in the underlying data. Do help the service provider understand what the right way forward is and suggest actionable insights from marketing and product terms.
 ## PROBLEM ANALYSIS - EDA
@@ -50,5 +53,8 @@
 ![image11.png](images/usersbystateandgroup.png)
 ![image12.png](images/InteractiveDashboard.png)<br/>
 ## INSIGHTS- CONSULTING REPORT
+## CONCLUSION
+Consulting Team provides Insights reports to customers and help understand them by numbers, how their Telecom Services have impact on users by their demographic, location features. Next customers will get to know what decision they can make in order to increase, the usage of their telecom users in respective cities, states and do more marketing in specific cities respective to age groups, genders and like other features. (Which brand users are more compatible to their services).
 ![image13.png](images/insight-2.png)<br/>
-- [Link for Consulting Report](./EDAandMLwithPython/blob/master/EDA%20on%20Telecom%20Services/Counsulting%20Report.docx)
+- [Link for Consulting Report](./EDA%20on%20Telecom%20Services/Counsulting%20Report.docx)
+
