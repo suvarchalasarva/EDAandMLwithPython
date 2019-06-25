@@ -9,18 +9,19 @@
 ## ATTRIBUTE INFORMATION
 | Column Name   			| Description                                              		  |
 | ------------- 			| --------------------------------------------------------------|                                            		
-| age                    | age of user                                   	  | 
-| gender        		| gender of user                     				        |  
-| device_id          		| Unique id of device belonging to user                                         | 
-| age_group       			| age_group of user      							            |                                            
-| phone_brand       | Name of phone brand that user is using            |   
-| device_model       				| Name of device_model that user is using                                      	|
-| event_id 		| Event id of user using mobile at a single instance   |
-| Latitude          			| Location column that is latitude value of user’s location when using mobile                       |
-| Longitude          				| Location column that is longitude value of user’s location when using mobile                 |
-| Timestamp    				| When user is using mobile                   |
-| City				| Where user is using mobile 	|
-| State 				| Where user is using mobile	|<br>
+| competitor Name     | Name of competitor brand                                   	  | 
+| chocolate        		| Does it contain chocolate?                     				        |  
+| fruity          		| Is it fruit flavored?                                         | 
+| caramel       			| Is there caramel in the candy?      							            |                                            
+| peanutalmondy       | Does it contain peanuts, peanut butter or almonds?            |   
+| nougat       				| Does it contain nougat?                                      	|
+| crispedricewafer 		| Does it contain crisped rice, wafers, or a cookie component   |
+| hard          			| Is it a hard candy?                                  			    |
+| bar          				| Is it a candy bar?                                            |
+| pluribus    				| Is it one of many candies in a bag or box?                    |
+| sugarpercent				| The percentile of sugar it falls under within the data set  	|
+| pricepercent 				| The unit price percentile compared to the rest of the set 	  |
+| winpercent				  | The overall win percentage according to 269,000 matchups		  |<br>
 ## DATA IN DEPTH
 - Number of Entries:     __85__
 - Number of Variables:   __13__
