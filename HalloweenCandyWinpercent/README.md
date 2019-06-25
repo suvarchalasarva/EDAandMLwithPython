@@ -1,15 +1,11 @@
-# Consulting assignment on Telecom Service Provider
+# HALLOWEEN CANDY WINPERCENT PREDICTION
 ## DATA
 ![image1.png](images/halloweencandies.png)<br><br>
-- The Data is collected from mobile apps that use Insaid Telecom services. Full recognition and consent from individual user of those     apps have been obtained, and appropriate anonymization have been performed to protect privacy. 
-- The data schema consists of follwing three tables.
-- gender_age_train: Devices and their respective user gender, age and age_group
-- Shape of gender_age_train is 74645 rows x 4 columns
-- phone_brand_device_model: device ids, brand, and models phone_brand: note that few brands are in Chinese
-- Shape of phone_device_model is 87726 rows X 3 columns
-- events_data: when a user uses mobile on Mr. XY Telecom network, the event gets logged in this data.
-- Each event has an event id, location (lat/long), and the event corresponds to frequency of mobile usage.
-- Shape of events_data when filtered for our respective states “Madhya Pradesh, Goa, Chhattisgarh, Nagaland, Null and Uttaranchal” is     261472 rows X 7 columns
+- This dataset was scraped from __Five Thirty Eight-Candy__ Power Ranking Dataset.
+- It is collection  of multiple candies records with specifications like flavors(chocolate,caramel,peanutyalmondy,etc), sugar percent   contained them
+- Data was collected by creating a website where participants were shown presenting two fun-sized candies and asked to click on the one they would prefer to receive. In total, more than __269 thousand votes__ were collected from 8,371 different IP addresses.
+- Dataset contains __85__ entries and __13__ columns/variables
+- __3__ Numeric , __1__ Categorical and __9__ Boolean variables<br>
 ## ATTRIBUTE INFORMATION
 | Column Name   			| Description                                              		  |
 | ------------- 			| --------------------------------------------------------------|                                            		
