@@ -25,7 +25,7 @@
 ## Table of Contents
 * [Ukraine Car Fleet Sales](#section1)<br>
 * [Halloween Candies Winpercent](#section2)<br>
-* [Consulting assignment on Telecom Service Provider] (#section3)<br>
+* [Consulting assignment on Telecom Service Provider](#section3)<br>
 ________________________________________________________________________________________________________________________________________
 
 <a id="section1"></a>
@@ -54,5 +54,5 @@ ________________________________________________________________________________
    ________________________________________________________________________________________________________________________________________
    
 <a id="section3"></a>
-### [Consulting Assignment on Telecom Service Provider](./Consulting Assignment on Telecom Service Provider)
+### [Consulting assignment on Telecom Service Provider](./EDA%20on%20Telecom%20Services)
 ![image3](/images/c1.png)<br><br>
